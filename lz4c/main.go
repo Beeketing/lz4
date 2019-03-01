@@ -11,7 +11,7 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/pierrec/lz4"
+	"github.com/Beeketing/lz4"
 	"github.com/pkg/profile"
 )
 
