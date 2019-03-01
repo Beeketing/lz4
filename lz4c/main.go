@@ -12,7 +12,7 @@ import (
 	"strings"
 
 	"github.com/Beeketing/lz4"
-	"github.com/pkg/profile"
+	"github.com/Beeketing/profile"
 )
 
 func main() {
